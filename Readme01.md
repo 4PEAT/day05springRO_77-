@@ -1,6 +1,6 @@
 
 
-## ✅ Book Lending REST API Task (Clarity-Enhanced)
+## ✅ Book Lending REST API Task
 
 ---
 
